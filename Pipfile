@@ -13,6 +13,7 @@ djangorestframework-simplejwt = "*"
 phonenumbers = "*"
 twilio = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
