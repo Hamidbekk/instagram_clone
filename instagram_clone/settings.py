@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt.token_blacklist',
     'phonenumbers',
     'twilio',
-    'whitenoise.runserver.nostatic',
+    'whitenoise.runserver_nostatic',
 
     # local apps
     'users',
